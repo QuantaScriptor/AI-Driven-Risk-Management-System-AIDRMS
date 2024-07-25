@@ -1,5 +1,6 @@
 
 # AI-Driven Risk Management System (AIDRMS)
+![DALL·E 2024-07-25 16 16 20 - A high-resolution banner for a GitHub project titled 'AI-Driven Risk Management System (AIDRMS)'  The banner should be futuristic and visually appeali](https://github.com/user-attachments/assets/a79e14f4-a3c6-44cc-b3e5-0ab5e3c52dde)
 
 ## Description
 AI-Driven Risk Management System (AIDRMS) is an AI-based system designed to identify and manage financial risks using machine learning principles.
